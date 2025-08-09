@@ -26,8 +26,4 @@ int main(){
 
     calc_IMC(peso, altura);
 
-
-    printf("TESTANDO\n");
-    printf("TESTANDO\n");
-
 }
