@@ -16,7 +16,7 @@ void calc_IMC(float peso, float altura){
 }
 
 int main(){
-    float peso, altura, resultado;
+    float peso, altura;
 
     printf("Digite seu peso em kg - Exemplo: 85.5\n");
     scanf("%f", &peso);
