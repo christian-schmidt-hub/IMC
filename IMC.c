@@ -28,5 +28,6 @@ int main(){
 
 
     printf("TESTANDO\n");
+    printf("TESTANDO\n");
 
 }
